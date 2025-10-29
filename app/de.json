@@ -1,7 +1,8 @@
 {
   "common": {
     "account-levels": {
-      "free": "Gratis"
+      "free": "Gratis",
+      "special-free": "Komplimentär"
     }
   }
 }
