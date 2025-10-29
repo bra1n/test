@@ -2,6 +2,9 @@
   "common": {
     "account-levels": {
       "free": "Gratis",
+      "patreon-demon": "Dämonen",
+      "patreon-minion": "Schergen",
+      "patreon-townsfolk": "Bürgery",
       "special-free": "Komplimentär",
       "special-tpi": "staffer"
     }
