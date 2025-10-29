@@ -2,7 +2,8 @@
   "common": {
     "account-levels": {
       "free": "Gratis",
-      "special-free": "Komplimentär"
+      "special-free": "Komplimentär",
+      "special-tpi": "staffer"
     }
   }
 }
