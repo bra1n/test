@@ -329,9 +329,9 @@
       "title_alignment_e": "Evil",
       "title_alignment_g": "Good",
       "title_alignment_r": "regular",
+      "title_target": "for {0}",
       "title_type_bluff": "bluff",
-      "title_type_character": "character",
-      "title_target": "for {0}"
+      "title_type_character": "character"
     },
     "roles": {
       "button_distribute": "Pass out {0} characters",
